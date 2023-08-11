@@ -29,7 +29,7 @@
 
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.kaggle.com/juwonyeo">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=KAGGLE&logoColor=white"> 
+        <img src="https://img.shields.io/badge/KAGGLE-E4405F?style=for-the-badge&logo=KAGGLE&logoColor=white"> 
     </a>
 </div><br>
 
