@@ -25,10 +25,14 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 
 
+## 💻 KAGGLE 💻
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/juwonyeo/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/juwonyeo/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/juwonyeo/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/juwonyeo/discussion)
+
+
+
 
 
    <br/>
