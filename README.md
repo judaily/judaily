@@ -25,9 +25,11 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 
 
-![judaily](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{judaily})
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/juwonyeo/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/juwonyeo/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/juwonyeo/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/juwonyeo/discussion)
 
-![default version](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{judaily}/{part})
 
    <br/>
    <br/>
