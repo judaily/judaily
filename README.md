@@ -26,6 +26,14 @@
 
 
 ## 💻 KAGGLE 💻
+
+<div style="display:flex; flex-direction:row;">
+    <a href="https://www.kaggle.com/juwonyeo">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=KAGGLE&logoColor=white"> 
+    </a>
+</div><br>
+
+
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/juwonyeo/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/juwonyeo/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/juwonyeo/notebook)
